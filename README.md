@@ -6,7 +6,7 @@ https://github.com/bobangajicsm/E-Commerce-Store
 
 https://raw.githubusercontent.com/RodrigoMvs123/Build-a-Webshop-Angular-Node.js-TypeScript-Stripe/main/README.md
 
-
+https://github.com/RodrigoMvs123/Build-a-Webshop-Angular-Node.js-TypeScript-Stripe/blame/main/README.md
 
 Build a Webshop – Angular, Node.js, TypeScript, Stripe
 
