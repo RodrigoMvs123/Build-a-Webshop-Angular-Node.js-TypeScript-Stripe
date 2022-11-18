@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=Kbauf9IgsC4
 
 https://github.com/bobangajicsm/E-Commerce-Store
 
+https://raw.githubusercontent.com/RodrigoMvs123/Build-a-Webshop-Angular-Node.js-TypeScript-Stripe/main/README.md
+
+
+
 Build a Webshop – Angular, Node.js, TypeScript, Stripe
 
 https://www.youtube.com/watch?v=Kbauf9IgsC4
